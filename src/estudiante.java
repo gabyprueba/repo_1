@@ -4,6 +4,7 @@ public class estudiante {
     int nota;
     
     //cambio 2
+    //nuevo comentario
     public estudiante(String nombre, int nota) {
         this.nombre = nombre;
         this.nota = nota;
