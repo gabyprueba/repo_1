@@ -18,6 +18,9 @@ public class diagnostico {
         
         // Pregunta 2: ¿Qué sucede si ejecutamos la siguiente línea?
          System.out.println(comision[2].nombre);
+
+         estudiante e4; new estudiante("Juan",10);
+         
     }
     
     // Pregunta 3: Implementar este método
